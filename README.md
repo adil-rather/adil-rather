@@ -1,113 +1,95 @@
+
 <div align="center">
-  <img src="assets/studio-banner.svg" width="100%" alt="RatherBuilds — A creative approach to code." />
-  <br /><br />
 
-  <samp>DESIGN ENGINEERING &nbsp;·&nbsp; APPLIED AI &nbsp;·&nbsp; TYPOGRAPHIC SYSTEMS</samp>
+  <img src="assets/studio-banner.svg" width="100%" alt="RatherBuilds — Software, design, and applied AI" />
 
-  <h2><strong>Thoughtful interfaces. Useful software.</strong></h2>
+  <br />
+
+  <samp>SOFTWARE DEVELOPMENT &nbsp; / &nbsp; APPLIED AI &nbsp; / &nbsp; INTERFACE DESIGN</samp>
+
+  <h3>Building useful software with attention to detail.</h3>
 
   <p>
-    Building software where computer science rigor meets editorial design.<br />
-    Focused on tactile web experiences, local-first AI workflows, and developer tooling.
+    I'm Adil Hassan, a Computer Science graduate creating desktop utilities,<br />
+    data-driven applications, and thoughtful web experiences.
   </p>
 
   <p>
-    <a href="https://ratherbuilds.site"><strong>Website ↗</strong></a> &nbsp;·&nbsp;
-    <a href="https://github.com/adil-rather?tab=repositories"><strong>Repositories</strong></a> &nbsp;·&nbsp;
-    <a href="https://github.com/adil-rather/Font_Styles"><strong>Font Archive</strong></a>
+    <a href="https://ratherbuilds.site">Website</a> &nbsp;·&nbsp;
+    <a href="https://github.com/adil-rather?tab=repositories">All projects</a> &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/adilhassan-rb/">LinkedIn</a>
   </p>
+
 </div>
 
 ---
 
-### Computer science, engineered with design intent.
+### About RatherBuilds
 
-**RatherBuilds** is an independent software and design practice operating at the intersection of systems engineering, human-computer interaction, and applied data science. The goal is simple: translate complex technical capabilities—from local machine learning inference to high-density data pipelines—into fast, intuitive interfaces that feel effortless to use.
+**RatherBuilds** is where I explore the connection between practical engineering and clear, intentional design. My work spans small tools that make everyday tasks easier, machine-learning experiments, and web interfaces that make information easier to use.
 
-Every build is anchored by three priorities: **high-clarity interaction**, **responsive systems**, and **shipping to learn**.
+I value **simplicity, usability, and continuous improvement**. Each project is an opportunity to learn, solve a real problem, and build something worth sharing.
 
----
-
-### Selected Work
+### Selected projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-
-#### `01` &nbsp; [Sivinx Stream](https://github.com/adil-rather/Sivinx-Stream)
-**Desktop Voice-Dictation Engine**
-
-Low-latency push-to-talk dictation utility that injects transcribed speech directly into your active window. Hold a global shortcut to capture audio; release to transcribe and paste instantaneously using cloud models or private, offline local inference.
-
-<samp>Desktop Utility · Push-to-Talk · Hybrid Cloud & Local AI</samp>
-
-[**Explore repository →**](https://github.com/adil-rather/Sivinx-Stream)
-
+      <sub>01 / DESKTOP SOFTWARE</sub>
+      <h3><a href="https://github.com/adil-rather/Sivinx-Stream">Sivinx Stream</a></h3>
+      <p>A Windows voice-typing tool with push-to-talk dictation, a floating recording widget, and a choice of local or cloud transcription.</p>
+      <p><code>Windows</code> <code>Speech-to-text</code> <code>Local + cloud AI</code></p>
+      <a href="https://github.com/adil-rather/Sivinx-Stream">Explore project →</a>
     </td>
     <td width="50%" valign="top">
-
-#### `02` &nbsp; [AI Data Analyzer](https://github.com/adil-rather/AI-Data-Analyzer)
-**Local Data Science & ML Workspace**
-
-Full-stack analytical environment for dataset exploration, time-series forecasting, clustering, and classification. Bridges a reactive frontend workspace with a high-throughput Python computation API.
-
-<samp>React · Vite · Python · FastAPI · Machine Learning</samp>
-
-[**Explore repository →**](https://github.com/adil-rather/AI-Data-Analyzer)
-
+      <sub>02 / DATA & MACHINE LEARNING</sub>
+      <h3><a href="https://github.com/adil-rather/AI-Data-Analyzer">AI Data Analyzer</a></h3>
+      <p>A local data-analysis workspace for exploring datasets, visualizing patterns, forecasting trends, and experimenting with ML models.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>React</code> <code>Vite</code></p>
+      <a href="https://github.com/adil-rather/AI-Data-Analyzer">Explore project →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-
-#### `03` &nbsp; [Interactive Web Dashboard](https://github.com/adil-rather/interactive-web-dasbord)
-**High-Density Analytics Interface**
-
-Responsive telemetry and KPI dashboard engineered for fast scanning and keyboard-first navigation. Features dynamic chart modules, paginated data tables, collapsible navigation architecture, and adaptive light/dark themes.
-
-<samp>JavaScript · HTML5 · CSS Architecture · Chart.js</samp>
-
-[**Explore repository →**](https://github.com/adil-rather/interactive-web-dasbord)
-
+      <sub>03 / FRONTEND DEVELOPMENT</sub>
+      <h3><a href="https://github.com/adil-rather/interactive-web-dasbord">Interactive Web Dashboard</a></h3>
+      <p>A responsive analytics interface with KPI cards, interactive charts, tables, collapsible navigation, and light/dark themes.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Chart.js</code></p>
+      <a href="https://github.com/adil-rather/interactive-web-dasbord">Explore project →</a>
     </td>
     <td width="50%" valign="top">
-
-#### `04` &nbsp; [Font Styles Archive](https://github.com/adil-rather/Font_Styles)
-**Curated Open-Source Typography Index**
-
-An alphabetically indexed collection of open-source typeface packages designed for rapid discovery and deployment. Includes a searchable directory structure, archive assembly documentation, and full foundry license preservation.
-
-<samp>Typography · Design Systems · Open-Source Curation</samp>
-
-[**Browse archive →**](https://github.com/adil-rather/Font_Styles)
-
+      <sub>04 / DESIGN RESOURCES</sub>
+      <h3><a href="https://github.com/adil-rather/Font_Styles">Font Styles Archive</a></h3>
+      <p>An organized reference collection of typefaces and font directories, with source and licensing considerations for third-party fonts.</p>
+      <p><code>Typography</code> <code>Resources</code> <code>Organization</code></p>
+      <a href="https://github.com/adil-rather/Font_Styles">Browse archive →</a>
     </td>
   </tr>
 </table>
 
----
+### Tools & areas I work with
 
-### Technical Stack & Capabilities
+| Area | Technologies and interests |
+| :-- | :-- |
+| **Programming & web** | `Python` `HTML` `CSS` `JavaScript` |
+| **Data & AI** | `Machine Learning` `Data Analysis` `Data Visualization` |
+| **Frameworks used in projects** | `React` `Vite` `FastAPI` `Chart.js` |
+| **Design & workflow** | `Responsive UI` `Typography` `Git` `GitHub` `VS Code` |
 
-| Domain | Core Technologies & Focus Areas |
-| :--- | :--- |
-| **Frontend & Interface** | `JavaScript (ES6+)` `React` `Vite` `Semantic HTML5` `Modern CSS` `Responsive Systems` |
-| **Data & Applied AI** | `Python` `FastAPI` `Machine Learning` `Predictive Modeling` `Data Visualization` |
-| **Design & Workflow** | `Figma` `Typographic Hierarchy` `Design Systems` `Git` `GitHub Actions` `VS Code` |
+### How I approach projects
 
----
+**Keep it clear.** Make the purpose, interface, and next action easy to understand.
 
-### Operating Principles
+**Build for real use.** Focus on features that solve a problem instead of adding complexity for its own sake.
 
-* **Clarity before ornament.** Every screen should communicate its primary state and next action within a glance.
-* **Craft in the details.** Micro-spacing, typographic rhythm, keyboard accessibility, and small-viewport ergonomics are treated as core engineering requirements—not polish.
-* **Build to understand.** The fastest path to mastering complex architectures is shipping real, working software and documenting how the system fits together.
+**Learn by building.** Experiment, test, document, and improve with each iteration.
 
 ---
 
 <div align="center">
-  <samp>RATHERBUILDS &nbsp;—&nbsp; ENGINEERED WITH PRECISION</samp><br /><br />
-  <a href="https://rastudios.site">ratherbuilds.site</a> &nbsp;·&nbsp;
-  <a href="https://github.com/adil-rather?tab=repositories">All Repositories</a> &nbsp;·&nbsp;
-  <a href="https://github.com/adil-rather">GitHub Profile</a>
+  <samp>RATHERBUILDS &nbsp;—&nbsp; BUILD WITH INTENTION.</samp>
+  <br /><br />
+  <a href="https://github.com/adil-rather">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/adilhassan-rb/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://ratherbuilds.site">Website</a>
 </div>
