@@ -13,8 +13,8 @@
 
   <p>
     <a href="https://ratherbuilds.site"><strong>Website ↗</strong></a> &nbsp;·&nbsp;
-    <a href="https://github.com/RatherBuilds?tab=repositories"><strong>Repositories</strong></a> &nbsp;·&nbsp;
-    <a href="https://github.com/RatherBuilds/Font_Styles"><strong>Font Archive</strong></a>
+    <a href="https://github.com/adil-rather?tab=repositories"><strong>Repositories</strong></a> &nbsp;·&nbsp;
+    <a href="https://github.com/adil-rather/Font_Styles"><strong>Font Archive</strong></a>
   </p>
 </div>
 
@@ -34,52 +34,52 @@ Every build is anchored by three priorities: **high-clarity interaction**, **res
   <tr>
     <td width="50%" valign="top">
 
-#### `01` &nbsp; [Sivinx Stream](https://github.com/RatherBuilds/Sivinx-Stream)
+#### `01` &nbsp; [Sivinx Stream](https://github.com/adil-rather/Sivinx-Stream)
 **Desktop Voice-Dictation Engine**
 
 Low-latency push-to-talk dictation utility that injects transcribed speech directly into your active window. Hold a global shortcut to capture audio; release to transcribe and paste instantaneously using cloud models or private, offline local inference.
 
 <samp>Desktop Utility · Push-to-Talk · Hybrid Cloud & Local AI</samp>
 
-[**Explore repository →**](https://github.com/RatherBuilds/Sivinx-Stream)
+[**Explore repository →**](https://github.com/adil-rather/Sivinx-Stream)
 
     </td>
     <td width="50%" valign="top">
 
-#### `02` &nbsp; [AI Data Analyzer](https://github.com/RatherBuilds/AI-Data-Analyzer)
+#### `02` &nbsp; [AI Data Analyzer](https://github.com/adil-rather/AI-Data-Analyzer)
 **Local Data Science & ML Workspace**
 
 Full-stack analytical environment for dataset exploration, time-series forecasting, clustering, and classification. Bridges a reactive frontend workspace with a high-throughput Python computation API.
 
 <samp>React · Vite · Python · FastAPI · Machine Learning</samp>
 
-[**Explore repository →**](https://github.com/RatherBuilds/AI-Data-Analyzer)
+[**Explore repository →**](https://github.com/adil-rather/AI-Data-Analyzer)
 
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-#### `03` &nbsp; [Interactive Web Dashboard](https://github.com/RatherBuilds/interactive-web-dasbord)
+#### `03` &nbsp; [Interactive Web Dashboard](https://github.com/adil-rather/interactive-web-dasbord)
 **High-Density Analytics Interface**
 
 Responsive telemetry and KPI dashboard engineered for fast scanning and keyboard-first navigation. Features dynamic chart modules, paginated data tables, collapsible navigation architecture, and adaptive light/dark themes.
 
 <samp>JavaScript · HTML5 · CSS Architecture · Chart.js</samp>
 
-[**Explore repository →**](https://github.com/RatherBuilds/interactive-web-dasbord)
+[**Explore repository →**](https://github.com/adil-rather/interactive-web-dasbord)
 
     </td>
     <td width="50%" valign="top">
 
-#### `04` &nbsp; [Font Styles Archive](https://github.com/RatherBuilds/Font_Styles)
+#### `04` &nbsp; [Font Styles Archive](https://github.com/adil-rather/Font_Styles)
 **Curated Open-Source Typography Index**
 
 An alphabetically indexed collection of open-source typeface packages designed for rapid discovery and deployment. Includes a searchable directory structure, archive assembly documentation, and full foundry license preservation.
 
 <samp>Typography · Design Systems · Open-Source Curation</samp>
 
-[**Browse archive →**](https://github.com/RatherBuilds/Font_Styles)
+[**Browse archive →**](https://github.com/adil-rather/Font_Styles)
 
     </td>
   </tr>
@@ -107,7 +107,7 @@ An alphabetically indexed collection of open-source typeface packages designed f
 
 <div align="center">
   <samp>RATHERBUILDS &nbsp;—&nbsp; ENGINEERED WITH PRECISION</samp><br /><br />
-  <a href="https://ratherbuilds.site">ratherbuilds.site</a> &nbsp;·&nbsp;
-  <a href="https://github.com/RatherBuilds?tab=repositories">All Repositories</a> &nbsp;·&nbsp;
-  <a href="https://github.com/RatherBuilds">GitHub Profile</a>
+  <a href="https://rastudios.site">ratherbuilds.site</a> &nbsp;·&nbsp;
+  <a href="https://github.com/adil-rather?tab=repositories">All Repositories</a> &nbsp;·&nbsp;
+  <a href="https://github.com/adil-rather">GitHub Profile</a>
 </div>
