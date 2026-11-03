@@ -1,95 +1,99 @@
 
 <div align="center">
 
-  <img src="assets/studio-banner.svg" width="100%" alt="RatherBuilds — Software, design, and applied AI" />
+<img src="assets/studio-banner.svg" width="100%" alt="RatherBuilds — software, design and applied AI" />
 
-  <br />
+<br />
 
-  <samp>SOFTWARE DEVELOPMENT &nbsp; / &nbsp; APPLIED AI &nbsp; / &nbsp; INTERFACE DESIGN</samp>
+<strong>Hi, I'm Adil Hassan.</strong><br />
+Computer Science graduate exploring software development, thoughtful interfaces, and applied AI.
 
-  <h3>Building useful software with attention to detail.</h3>
+<br /><br />
 
-  <p>
-    I'm Adil Hassan, a Computer Science graduate creating desktop utilities,<br />
-    data-driven applications, and thoughtful web experiences.
-  </p>
+<a href="https://ratherbuilds.site"><strong>Website</strong></a> &nbsp; / &nbsp;
+<a href="https://github.com/adil-rather?tab=repositories"><strong>Repositories</strong></a> &nbsp; / &nbsp;
+<a href="https://www.linkedin.com/in/adilhassan-rb/"><strong>LinkedIn</strong></a>
 
-  <p>
-    <a href="https://ratherbuilds.site">Website</a> &nbsp;·&nbsp;
-    <a href="https://github.com/adil-rather?tab=repositories">All projects</a> &nbsp;·&nbsp;
-    <a href="https://www.linkedin.com/in/adilhassan-rb/">LinkedIn</a>
-  </p>
+<br /><br />
+
+<img src="assets/motion-lab.gif" width="100%" alt="Animated colorful generative design showing the RatherBuilds approach to code and creativity" />
 
 </div>
 
----
+### About
 
-### About RatherBuilds
+**RatherBuilds** is my space for making practical software, experimenting with new ideas, and sharing what I learn along the way. I enjoy building tools that make everyday tasks easier and interfaces that feel clear, fast, and enjoyable to use.
 
-**RatherBuilds** is where I explore the connection between practical engineering and clear, intentional design. My work spans small tools that make everyday tasks easier, machine-learning experiments, and web interfaces that make information easier to use.
+My interests span **Python, web development, machine learning, data visualization, and interface design**.
 
-I value **simplicity, usability, and continuous improvement**. Each project is an opportunity to learn, solve a real problem, and build something worth sharing.
-
-### Selected projects
+### Selected work
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <sub>01 / DESKTOP SOFTWARE</sub>
       <h3><a href="https://github.com/adil-rather/Sivinx-Stream">Sivinx Stream</a></h3>
-      <p>A Windows voice-typing tool with push-to-talk dictation, a floating recording widget, and a choice of local or cloud transcription.</p>
-      <p><code>Windows</code> <code>Speech-to-text</code> <code>Local + cloud AI</code></p>
-      <a href="https://github.com/adil-rather/Sivinx-Stream">Explore project →</a>
+      <p>A Windows speech-to-text utility for hands-on dictation, with push-to-talk controls and local or cloud transcription options.</p>
+      <p><code>Windows</code> <code>Speech-to-text</code> <code>AI</code></p>
+      <a href="https://github.com/adil-rather/Sivinx-Stream">View repository ↗</a>
     </td>
     <td width="50%" valign="top">
-      <sub>02 / DATA & MACHINE LEARNING</sub>
+      <sub>02 / DATA & APPLIED AI</sub>
       <h3><a href="https://github.com/adil-rather/AI-Data-Analyzer">AI Data Analyzer</a></h3>
-      <p>A local data-analysis workspace for exploring datasets, visualizing patterns, forecasting trends, and experimenting with ML models.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>React</code> <code>Vite</code></p>
-      <a href="https://github.com/adil-rather/AI-Data-Analyzer">Explore project →</a>
+      <p>A local workspace for exploring datasets, visualizing patterns, and trying machine-learning workflows.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>React</code></p>
+      <a href="https://github.com/adil-rather/AI-Data-Analyzer">View repository ↗</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub>03 / FRONTEND DEVELOPMENT</sub>
+      <sub>03 / FRONTEND ENGINEERING</sub>
       <h3><a href="https://github.com/adil-rather/interactive-web-dasbord">Interactive Web Dashboard</a></h3>
-      <p>A responsive analytics interface with KPI cards, interactive charts, tables, collapsible navigation, and light/dark themes.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Chart.js</code></p>
-      <a href="https://github.com/adil-rather/interactive-web-dasbord">Explore project →</a>
+      <p>A responsive dashboard with charts, KPI cards, tables, adaptive layouts, and light/dark themes.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <a href="https://github.com/adil-rather/interactive-web-dasbord">View repository ↗</a>
     </td>
     <td width="50%" valign="top">
-      <sub>04 / DESIGN RESOURCES</sub>
+      <sub>04 / OPEN RESOURCES</sub>
       <h3><a href="https://github.com/adil-rather/Font_Styles">Font Styles Archive</a></h3>
-      <p>An organized reference collection of typefaces and font directories, with source and licensing considerations for third-party fonts.</p>
-      <p><code>Typography</code> <code>Resources</code> <code>Organization</code></p>
-      <a href="https://github.com/adil-rather/Font_Styles">Browse archive →</a>
+      <p>An organized typography reference for discovering and exploring typefaces and their available resources.</p>
+      <p><code>Typography</code> <code>Resources</code> <code>Design</code></p>
+      <a href="https://github.com/adil-rather/Font_Styles">Browse archive ↗</a>
     </td>
   </tr>
 </table>
 
-### Tools & areas I work with
+<div align="center">
+  <img src="assets/signal-divider.gif" width="100%" alt="Animated multicolor signal line connecting idea to software" />
+</div>
 
-| Area | Technologies and interests |
-| :-- | :-- |
-| **Programming & web** | `Python` `HTML` `CSS` `JavaScript` |
+### Technologies & interests
+
+| Area | Tools and topics |
+| :--- | :--- |
+| **Core development** | `Python` `HTML` `CSS` `JavaScript` |
 | **Data & AI** | `Machine Learning` `Data Analysis` `Data Visualization` |
-| **Frameworks used in projects** | `React` `Vite` `FastAPI` `Chart.js` |
-| **Design & workflow** | `Responsive UI` `Typography` `Git` `GitHub` `VS Code` |
+| **Used in projects** | `React` `Vite` `FastAPI` `Chart.js` |
+| **Design & workflow** | `Responsive Design` `Typography` `Git` `GitHub` `VS Code` |
 
-### How I approach projects
+### My approach
 
-**Keep it clear.** Make the purpose, interface, and next action easy to understand.
+**Make it clear.** Aim for simple interfaces and understandable interactions.
 
-**Build for real use.** Focus on features that solve a problem instead of adding complexity for its own sake.
+**Make it useful.** Work on real problems and avoid adding features just for the sake of complexity.
 
-**Learn by building.** Experiment, test, document, and improve with each iteration.
+**Keep improving.** Build, test, learn, and iterate.
 
----
+<br />
 
 <div align="center">
-  <samp>RATHERBUILDS &nbsp;—&nbsp; BUILD WITH INTENTION.</samp>
-  <br /><br />
-  <a href="https://github.com/adil-rather">GitHub</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/adilhassan-rb/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://ratherbuilds.site">Website</a>
+
+<img src="assets/footer-motion.gif" width="100%" alt="Animated footer with colorful waves rising from the bottom and the words Keep building" />
+
+<br />
+
+<a href="https://ratherbuilds.site">Website</a> &nbsp;·&nbsp;
+<a href="https://github.com/adil-rather?tab=repositories">All repositories</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/adilhassan-rb/">LinkedIn</a>
+
 </div>
