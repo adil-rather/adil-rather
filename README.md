@@ -1,9 +1,9 @@
 
-<!-- RATHERBUILDS — GITHUB PROFILE -->
+<!-- RatherBuilds — GitHub Profile -->
 
 <div align="center">
 
-<img src="assets/studio-banner.svg" width="100%" alt="RatherBuilds" />
+<img src="assets/studio-banner.svg" width="100%" alt="RatherBuilds — A creative approach to code" />
 
 <br /><br />
 
@@ -12,9 +12,8 @@
 <h2>Thoughtful interfaces. Useful software.</h2>
 
 <p>
-Hi, I'm <strong>Adil Hassan</strong> — a Computer Science graduate
-building desktop tools, exploring data and machine learning,
-and creating clean web experiences.
+Hi, I'm <strong>Adil Hassan</strong> — a Computer Science graduate<br />
+building desktop tools, exploring data and AI, and creating web experiences.
 </p>
 
 <p>
@@ -25,11 +24,7 @@ and creating clean web experiences.
 
 </div>
 
-<br />
-
 ### 🌐 Connect with Me
-
----
 
 <p align="center">
 
@@ -51,42 +46,37 @@ and creating clean web experiences.
 
 </p>
 
-<br />
-
 ### 🧰 Tech Stack
 
----
-
-**Core tools and languages**
+**Core Languages & Tools**
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=py,html,css,js,git,github,vscode&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=py,html,css,js,git,github,vscode&theme=dark&perline=7" alt="Programming languages and tools" />
 
 </p>
 
-**Frameworks and tools used in projects**
+**Frameworks & Technologies Explored**
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,vite,fastapi,flask,sqlite,sklearn,figma&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=react,vite,fastapi,flask,sqlite,sklearn,figma&theme=dark&perline=7" alt="Frameworks and technologies" />
 
 </p>
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
+
 <img src="https://img.shields.io/badge/MACHINE%20LEARNING-6F58B5?style=flat-square&logo=scikitlearn&logoColor=white" />
+
 <img src="https://img.shields.io/badge/WEB%20DESIGN-2A9C8C?style=flat-square&logo=html5&logoColor=white" />
+
 <img src="https://img.shields.io/badge/DATA%20ANALYSIS-C47D56?style=flat-square&logo=pandas&logoColor=white" />
 
 </p>
 
-<br />
-
 ### 🚀 Selected Projects
-
----
 
 <table>
 <tr>
@@ -96,7 +86,7 @@ and creating clean web experiences.
 
 <h3><a href="https://github.com/adil-rather/Sivinx-Stream">Sivinx Stream ↗</a></h3>
 
-<p>Windows voice dictation with push-to-talk recording and local or cloud speech-to-text options.</p>
+<p>A Windows voice-dictation utility with push-to-talk recording and local or cloud speech-to-text options.</p>
 
 <code>Windows</code> <code>Speech-to-text</code> <code>AI</code>
 
@@ -107,7 +97,7 @@ and creating clean web experiences.
 
 <h3><a href="https://github.com/adil-rather/AI-Data-Analyzer">AI Data Analyzer ↗</a></h3>
 
-<p>A local workspace for exploring datasets, visualizing patterns, and experimenting with machine-learning workflows.</p>
+<p>A workspace for exploring datasets, visualizing patterns, and experimenting with machine-learning workflows.</p>
 
 <code>Python</code> <code>FastAPI</code> <code>React</code>
 
@@ -132,7 +122,7 @@ and creating clean web experiences.
 
 <h3><a href="https://github.com/adil-rather/Font_Styles">Font Styles Archive ↗</a></h3>
 
-<p>An organized collection of typefaces and typography resources for exploring styles and design choices.</p>
+<p>An organized reference collection for discovering typefaces and exploring typography resources.</p>
 
 <code>Typography</code> <code>Resources</code>
 
@@ -140,42 +130,32 @@ and creating clean web experiences.
 </tr>
 </table>
 
-<br />
-
 ### 📊 GitHub Analytics
 
----
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adil-rather&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D171E&amp;title_color=8ECFB7&amp;text_color=E8EFEA&amp;icon_color=E5C294" alt="GitHub statistics" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=adil-rather&show_icons=true&hide_border=true&bg_color=0D171E&title_color=8ECFB7&text_color=E8EFEA&icon_color=E5C294" alt="GitHub statistics" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=adil-rather&amp;hide_border=true&amp;background=0D171E&amp;ring=8ECFB7&amp;fire=E5C294&amp;currStreakNum=F4F0E8&amp;sideNums=F4F0E8&amp;currStreakLabel=8ECFB7&amp;sideLabels=BDD2C9&amp;dates=8FA7A0" alt="GitHub streak" />
+<img width="49%" src="https://streak-stats.demolab.com?user=adil-rather&hide_border=true&background=0D171E&ring=8ECFB7&fire=E5C294&currStreakNum=F4F0E8&sideNums=F4F0E8&currStreakLabel=8ECFB7&sideLabels=BDD2C9&dates=8FA7A0" alt="GitHub streak" />
 
 </div>
 
-<br />
-
-### 📈 Contribution Graph
-
----
+### 📈 Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adil-rather&amp;bg_color=0D171E&amp;color=D4E4DD&amp;line=8ECFB7&amp;point=E5C294&amp;area_color=416F64&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adil-rather&theme=github_dark&title_color=8ECFB7&text_color=E8EFEA&bg_color=0D171E&chart_color=8ECFB7&border_color=0D171E" alt="GitHub contribution activity overview" />
 
 </div>
-
-<br />
 
 ### ✦ How I Build
-
----
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/01-CLARITY-8ECFB7?style=flat-square&labelColor=17242B" />
+
 <img src="https://img.shields.io/badge/02-USEFULNESS-E5C294?style=flat-square&labelColor=17242B" />
+
 <img src="https://img.shields.io/badge/03-PROGRESS-7BB6D3?style=flat-square&labelColor=17242B" />
 
 </p>
