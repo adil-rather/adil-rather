@@ -36,7 +36,7 @@ building desktop tools, exploring data and AI, and creating web experiences.
 <img src="https://img.shields.io/badge/GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://ratherbuilds.site">
+<a href="https://rastudios.site">
 <img src="https://img.shields.io/badge/PORTFOLIO-356A5A?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
