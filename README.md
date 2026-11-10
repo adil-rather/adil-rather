@@ -177,7 +177,7 @@ Learn by building, testing, and improving.
 
 <br /><br />
 
-<a href="https://rastudios.site">Website</a>
+<a href="https://ratherbuilds.site">Website</a>
 &nbsp;·&nbsp;
 <a href="https://github.com/adil-rather?tab=repositories">Repositories</a>
 &nbsp;·&nbsp;
